@@ -35,9 +35,8 @@ The project strictly follows the Separation of Concerns (SoC) principle, structu
 
 ### Running via Terminal
 
-1. Clone the repository:
 ```bash
-git clone [https://github.com/Sahakyan1/ecommerce-shopping-cart.git](https://github.com/Sahakyan1/ecommerce-shopping-cart.git)
+git clone https://github.com/Sahakyan1/ecommerce-shopping-cart.git
 cd ecommerce-shopping-cart/src
 javac com/shop/Main.java
 java com.shop.Main
